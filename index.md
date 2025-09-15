@@ -24,7 +24,7 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 ## Work Experience 
 
 ### Foxford – online education platform and LMS system (2019 - 2021)
-*Foxford is a large EdTech company and LMS platform with 3.5M registered students and 350K teachers.*
+*Foxford is a large EdTech company and LMS platform with 3.5M registered users and 350K educators.*
 
 **Metrics Analyst** (2020 – 2021)
 - Developed and evaluated key performance indicators to assess success of the educational content created by the department.
@@ -54,27 +54,29 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 
 ### Cognition: International Journal of Cognitive Science (2025 – present)
 *Cognition is a bimonthly peer-reviewed scientific journal covering cognitive science published by Elsevier.*
+  
 **Ad hoc Reviewer**
 - Reviewed submitted articles in psycholinguistics, bilingualism, and language processing.
 
 ### Social Camp Project (2024 - 2025)
-*Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw*
+*Social Camp is a project that aims to support informal education and open dialogue in Belarusian society affiliated with Goethe Institute, Warsaw.*
+  
 **Mentor in the field of EdTech, Social Camp**
 - Conducted 10 one-hour mentoring sessions with an early-stage entrepreneur, focusing on educational processes and performance metrics.
 
 ## Skills 
 
-#### Programming and web
+### Programming and web
 R (advanced), Python (basic), HTML/CSS (basic)
-#### Documentation
+### Documentation
 Notion, Miro, MS Office
-#### Workflow Management
+### Workflow Management
 GitHub, Jira, Planfix, Slack
-#### Data analysis
+### Data analysis
 R-Studio, SPSS, JASP
-#### Design
+### Design
 Canva, Figma, Freeform
-#### Other
+### Other
 GetResponse, Qualtrics, Audacity
 
 ## Publications  
