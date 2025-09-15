@@ -9,7 +9,7 @@ _PhD candidate / Cognitive Neuroscience_
 - **LinkedIn:** [linkedin.com/in/ameliksetian](https://www.linkedin.com/in/ameliksetian/)
  
 ## About  
-PhD candidate in Cognitive Neuroscience with 5+ years of experience in EdTech, instructional design, and learning analytics. Strong track record of creating effective online learning solutions, coordinating educational projects, and mentoring in digital education.
+PhD candidate in Cognitive Neuroscience with 5+ years of experience in documentation management, process coordination, and data organization. I am skilled in maintaining digital workspaces, supporting teams with clear procedures, and ensuring smooth communication across projects and departments.
 
 ## Education  
 - **PhD candidate, Cognitive Neuroscience**  
@@ -27,22 +27,28 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 *Foxford is a large EdTech company and LMS platform with 3.5M registered students and 350K teachers.*
 
 **Metrics Analyst** (2020 – 2021)
-- Developed and evaluated performance metrics for the Educational Design and Methodology department.
-- Assessed product success metrics for courses created by the department.
+- Developed and evaluated key performance indicators to assess success of the educational content created by the department.
+- Designed and maintained documentation for department processes in Notion, including skill matrices for graded positions and detailed workflow descriptions.
+- Facilitated weekly team meetings to track performance metrics and ensure adherence to standards.
   
 **Product Administrator** (2020 – 2020)
-- Implemented new educational content into the online platform.
-- Acted as product manager (training role) for a university entrance exam preparation course.
-- Designed and conducted qualitative (custdevs) and quantitative (surveys) research to define product requirements (duration, difficulty, entry level, format).
+- Managed educator onboarding: collected employment documents, prepared employment templates, and coordinated with HR.
+- Drafted and distributed student communications (e.g., course updates, schedule changes) via GetResponse.
+- Served as the first point of contact for educators/employees through Slack helpdesk, resolving issues or forwarding inquiries.
+- Built and maintained a comprehensive Notion knowledge base with detailed process documentation for team use.
+- Defined new product formats by designing and conducting surveys and customer development interviews (training role).
  
 **Methodologist** (2019 – 2020)
-- Created course materials, including assignments and assessment tests.
+- Created contect for educational products: course materials, assignments, and assessment tests.
 - Supported the customer service team in resolving student and teacher inquiries related to course content.
+- Designed and maintained internal guidelines for methodologists on collaborating with customer service.
+
+*Over two years, I progressed through three roles at Foxford, each with increasing responsibility and broader approach to educational product.*
 
 ### Lomonosov Moscow State University (2017 – 2018)
 **Assistant: Department of Work Psychology** 
-- Assisted in course schedule planning.
-- Recorded and prepared documentation of department meetings (methodological discussions, thesis defenses, etc.).
+- Provided organizational support for department staff (coordinating schedules, courses, and department events).
+- Documented department activities (methodological discussions, thesis defenses).
 
 ## Volunteering
 
@@ -59,11 +65,17 @@ Russian State University for the Humanities, Russia (2013 – 2017)
 ## Skills 
 
 #### Programming and web
-R (advanced), Python (basic), HTML/CSS (basic).
+R (advanced), Python (basic), HTML/CSS (basic)
+#### Documentation
+Notion, Miro, MS Office
+#### Workflow Management
+GitHub, Jira, Planfix, Slack
 #### Data analysis
-R-Studio, SPSS, JASP.
-#### Other tools
-GitHub, Jira, Planfix, Notion, Miro, Canva, MS Office.
+R-Studio, SPSS, JASP
+#### Design
+Canva, Figma, Freeform
+#### Other
+GetResponse, Qualtrics, Audacity
 
 ## Publications  
 *Lijewska, Wolna, Durlik, Meliksetian, Sorace, Wodniecka.* **The influence of L2 immersion and L1-reimmersion on reading and grammatical preferences in L1 anaphora**. Bilingualism: Language and Cognition, 2025 (in principle acceptance).
@@ -84,6 +96,6 @@ GitHub, Jira, Planfix, Notion, Miro, Canva, MS Office.
 You can reach me via email (anna.meliksetian@doctoral.uj.edu.pl) or on [LinkedIn](https://linkedin.com/in/ameliksetian).  
 
 ## RODO
-Wyrażam zgodę na przetwarzanie moich danych osobowych przez Cognizant w celu prowadzenia rekrutacji na aplikowane przeze mnie stanowisko.
+Wyrażam zgodę na przetwarzanie moich danych osobowych przez Jacobs w celu prowadzenia rekrutacji na aplikowane przeze mnie stanowisko.
 
-Last updated on Sep 13, 2025
+Last updated on Sep 15, 2025
